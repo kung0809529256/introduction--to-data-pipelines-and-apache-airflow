@@ -5,7 +5,7 @@
         "tasks.max": "1",
         "connection.url": "jdbc:mysql://127.0.0.1:3306",
         "connection.user": "root",
-        "connection.password": "Kung0809529256",
+        "connection.password": "'Kung\\$0809529256'",
         "table.whitelist": "ORDERS",
         "mode": "incrementing",
         "incrementing.column.name": "id",
